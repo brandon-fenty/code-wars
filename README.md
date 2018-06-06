@@ -1,7 +1,15 @@
 # code-wars
 Code Wars solutions
 
-## Pair Kata 6-4-18 - abbreviate a two word name
+## Morning Lab 6-4-18 - FIXME: Replace the Dots
+
+Link: https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
+
+Problem Domain: The code provided is supposed replace all the dots . in the specified String str with dashes -
+
+But it's not working properly.
+
+## Pair Kata 6-4-18 - Abbreviate a two word name
 
 Link: https://www.codewars.com/kata/abbreviate-a-two-word-name
 
