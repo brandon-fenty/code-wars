@@ -24,3 +24,9 @@ Problem Domain: You're at the zoo... all the meerkats look weird. Something has 
 Save the animals by switching them back. You will be given an array which will have three values (tail, body, head). It is your job to re-arrange the array so that the animal is the right way round (head, body, tail).
 
 Same goes for all the other arrays/lists that you will get in the tests: you have to change the element positions with the same exact logics - simples!
+
+## Pair Kata 6-6-18 - insert dahes
+
+Link: https://www.codewars.com/kata/insert-dashes/train/javascript
+
+Problem Domain: Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-') between each two odd numbers in num. For example: if num is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
