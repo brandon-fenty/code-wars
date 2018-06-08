@@ -25,8 +25,19 @@ Save the animals by switching them back. You will be given an array which will h
 
 Same goes for all the other arrays/lists that you will get in the tests: you have to change the element positions with the same exact logics - simples!
 
-## Pair Kata 6-6-18 - insert dahes
+## Pair Kata 6-6-18 - insert dashes
 
 Link: https://www.codewars.com/kata/insert-dashes/train/javascript
 
 Problem Domain: Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-') between each two odd numbers in num. For example: if num is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
+
+## Pair Kata 6-7-18 - Simple validation of a username with regex
+
+Link: https://www.codewars.com/kata/simple-validation-of-a-username-with-regex/javascript
+
+Problem Domain: Write a simple regex to validate a username. Allowed characters are:
+
+lowercase letters,
+numbers,
+underscore
+Length should be between 4 and 16 characters (both included).
