@@ -5,7 +5,9 @@ Code Wars solutions
 
 Link: https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
 
-Problem Domain: The code provided is supposed replace all the dots . in the specified String str with dashes -
+### Problem Domain: 
+
+The code provided is supposed replace all the dots . in the specified String str with dashes -
 
 But it's not working properly.
 
@@ -13,13 +15,17 @@ But it's not working properly.
 
 Link: https://www.codewars.com/kata/abbreviate-a-two-word-name
 
-Problem Domain: Write a function to take a first and last name and convert it into initials with a dot in between them. The initials need to be upper case.
+### Problem Domain: 
+
+Write a function to take a first and last name and convert it into initials with a dot in between them. The initials need to be upper case.
 
 ## Pair Kata 6-5-18 - my head is at the wrong end
 
 Link: https://www.codewars.com/kata/56f699cd9400f5b7d8000b55
 
-Problem Domain: You're at the zoo... all the meerkats look weird. Something has gone terribly wrong - someone has gone and switched their heads and tails around!
+### Problem Domain: 
+
+You're at the zoo... all the meerkats look weird. Something has gone terribly wrong - someone has gone and switched their heads and tails around!
 
 Save the animals by switching them back. You will be given an array which will have three values (tail, body, head). It is your job to re-arrange the array so that the animal is the right way round (head, body, tail).
 
@@ -29,15 +35,39 @@ Same goes for all the other arrays/lists that you will get in the tests: you hav
 
 Link: https://www.codewars.com/kata/insert-dashes/train/javascript
 
-Problem Domain: Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-') between each two odd numbers in num. For example: if num is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
+### Problem Domain: 
+
+Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-') between each two odd numbers in num. For example: if num is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
 
 ## Pair Kata 6-7-18 - Simple validation of a username with regex
 
 Link: https://www.codewars.com/kata/simple-validation-of-a-username-with-regex/javascript
 
-Problem Domain: Write a simple regex to validate a username. Allowed characters are:
+### Problem Domain: 
+Write a simple regex to validate a username. Allowed characters are:
 
 lowercase letters,
 numbers,
 underscore
 Length should be between 4 and 16 characters (both included).
+
+## Weekend Katas 6-10-18 - Regex validate PIN code & Alternate capitalization
+
+Links:
+ - https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/solutions/javascript
+ - https://www.codewars.com/kata/59cfc000aeb2844d16000075/solutions/javascript
+
+### Problem Domains
+
+ 1. Regex Validate Pin Code: 
+    - ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
+
+    If the function is passed a valid PIN string, return true, else return false.
+
+2. Alternate capitalization:
+    - Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. Index 0 will be considered even.
+
+    For example, capitalize("abcdef") = ['AbCdEf', 'aBcDeF']. See test cases for more examples.
+
+    The input will be a lowercase string with no spaces.
+
