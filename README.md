@@ -71,3 +71,16 @@ Links:
 
     The input will be a lowercase string with no spaces.
 
+## Pair Kata 6-12-18
+
+Link: https://www.codewars.com/kata/disemvowel-trolls/javascript
+
+Problem domain: Trolls are attacking your comment section!
+
+A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
+
+Your task is to write a function that takes a string and return a new string with all vowels removed.
+
+For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
+
+Note: for this kata y isn't considered a vowel.
