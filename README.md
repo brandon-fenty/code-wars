@@ -71,6 +71,7 @@ Links:
 
     The input will be a lowercase string with no spaces.
 
+
 ## Pair Kata 6-11-18 - Nice Array
 
 ### NOTE: I was sick and not at school this day, I did not contribute to my partners whiteboarding for the challenge but we came up with similar solutions so I used her whiteboard solution instead of writing out a completely new one.
@@ -88,3 +89,17 @@ example:
 3=2+1
 9=10-1
 Write a function named isNice/IsNice that returns true if its array argument is a Nice array, else false. You should also return false if input array has no elements.
+
+## Pair Kata 6-12-18
+
+Link: https://www.codewars.com/kata/disemvowel-trolls/javascript
+
+Problem domain: Trolls are attacking your comment section!
+
+A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
+
+Your task is to write a function that takes a string and return a new string with all vowels removed.
+
+For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
+
+Note: for this kata y isn't considered a vowel.
