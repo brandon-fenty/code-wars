@@ -11,7 +11,7 @@ The code provided is supposed replace all the dots . in the specified String str
 
 But it's not working properly.
 
-## Pair Kata 6-4-18 - Abbreviate a two word name
+## Pair Kata 6-4-18 - Abbreviate a two word name w/ Chi
 
 Link: https://www.codewars.com/kata/abbreviate-a-two-word-name
 
@@ -19,7 +19,7 @@ Link: https://www.codewars.com/kata/abbreviate-a-two-word-name
 
 Write a function to take a first and last name and convert it into initials with a dot in between them. The initials need to be upper case.
 
-## Pair Kata 6-5-18 - my head is at the wrong end
+## Pair Kata 6-5-18 - my head is at the wrong end w/ Tara
 
 Link: https://www.codewars.com/kata/56f699cd9400f5b7d8000b55
 
@@ -31,7 +31,7 @@ Save the animals by switching them back. You will be given an array which will h
 
 Same goes for all the other arrays/lists that you will get in the tests: you have to change the element positions with the same exact logics - simples!
 
-## Pair Kata 6-6-18 - insert dashes
+## Pair Kata 6-6-18 - insert dashes w/ Kelly
 
 Link: https://www.codewars.com/kata/insert-dashes/train/javascript
 
@@ -39,7 +39,7 @@ Link: https://www.codewars.com/kata/insert-dashes/train/javascript
 
 Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-') between each two odd numbers in num. For example: if num is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
 
-## Pair Kata 6-7-18 - Simple validation of a username with regex
+## Pair Kata 6-7-18 - Simple validation of a username with regex w/ Amanda
 
 Link: https://www.codewars.com/kata/simple-validation-of-a-username-with-regex/javascript
 
@@ -72,7 +72,7 @@ Links:
     The input will be a lowercase string with no spaces.
 
 
-## Pair Kata 6-11-18 - Nice Array
+## Pair Kata 6-11-18 - Nice Array w/ Sara
 
 ### NOTE: I was sick and not at school this day, I did not contribute to my partners whiteboarding for the challenge but we came up with similar solutions so I used her whiteboard solution instead of writing out a completely new one.
 
@@ -90,7 +90,7 @@ example:
 9=10-1
 Write a function named isNice/IsNice that returns true if its array argument is a Nice array, else false. You should also return false if input array has no elements.
 
-## Pair Kata 6-12-18
+## Pair Kata 6-12-18 w/ Rosie
 
 Link: https://www.codewars.com/kata/disemvowel-trolls/javascript
 
@@ -103,3 +103,11 @@ Your task is to write a function that takes a string and return a new string wit
 For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
 
 Note: for this kata y isn't considered a vowel.
+
+## Pair Kata 6-13-18 - Find the Middle Element w/ Chris
+
+Link - https://www.codewars.com/kata/find-the-middle-element/train/javascript
+
+Problem Domain: Create a function that when given a triplet, returns the index of the numerical element that lies between the other two elements.
+
+The input to the function will be an array of three distinct numbers (Haskell: a tuple).
