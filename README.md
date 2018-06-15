@@ -111,3 +111,9 @@ Link - https://www.codewars.com/kata/find-the-middle-element/train/javascript
 Problem Domain: Create a function that when given a triplet, returns the index of the numerical element that lies between the other two elements.
 
 The input to the function will be an array of three distinct numbers (Haskell: a tuple).
+
+## Pair Kata 6-14-18 - Reversed strings
+
+Link - https://www.codewars.com/kata/reversed-strings/javascript
+
+Problem Domain: Complete the solution so that it reverses the string value passed into it.
