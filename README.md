@@ -117,3 +117,17 @@ The input to the function will be an array of three distinct numbers (Haskell: a
 Link - https://www.codewars.com/kata/reversed-strings/javascript
 
 Problem Domain: Complete the solution so that it reverses the string value passed into it.
+
+## Weekend Katas 6-16-18 - Calculate Average, List Filtering, & Use map() to double the values in an array
+
+Links - 
+- https://www.codewars.com/kata/calculate-average/solutions/javascript/me/best_practice
+- https://www.codewars.com/kata/list-filtering/train/javascript
+- https://www.codewars.com/kata/use-map-to-double-the-values-in-an-array
+
+### Problem Domains
+1. Calculate Average: Write function avg which calculates average of numbers in given list.
+
+2. List Filtering: In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
+
+3. Use map() to double the values in an array: Make the double() function return a new array with each value twice as large as the corresponding value in the passed in array. Your solution must use the map() function of the built-in javascript Array object
