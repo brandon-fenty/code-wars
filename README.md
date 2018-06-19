@@ -131,3 +131,10 @@ Links -
 2. List Filtering: In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
 
 3. Use map() to double the values in an array: Make the double() function return a new array with each value twice as large as the corresponding value in the passed in array. Your solution must use the map() function of the built-in javascript Array object
+
+## Pair Kata 6-18-18 - Sum of Odd Cubed Numbers
+
+Link - https://www.codewars.com/kata/sum-of-odd-cubed-numbers/javascript
+
+Problem Domain: Find the sum of the odd numbers within an array, after cubing the initial integers. This function will return undefined (NULL in PHP) if any of the values aren't numbers.
+
