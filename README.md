@@ -151,3 +151,22 @@ You need to return the highest scoring word as a string.
 If two words score the same, return the word that appears earliest in the original string.
 
 All letters will be lowercase and all inputs will be valid.
+
+## Pair Kata 6-20-18 - Mutate My Strings
+
+Link - https://www.codewars.com/kata/mutate-my-strings/javascript
+
+Problem Domain: I will give you two strings. I want you to transform stringOne into stringTwo one letter at a time.
+
+Example:
+
+stringOne = 'bubble gum';
+stringTwo = 'turtle ham';
+
+Result:
+bubble gum
+tubble gum
+turble gum
+turtle gum
+turtle hum
+turtle ham
